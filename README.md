@@ -1,0 +1,2 @@
+# latihangit
+tutorial penggunaan git
